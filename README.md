@@ -7,6 +7,8 @@ A billable-time invoice featuring style over substance.
 ### Pre-Requisites
 
 - [TeX Live](https://www.tug.org/texlive/acquire-netinstall.html)
+- XeTeX
+- [siunitx -- A comprehensive (SI) units package](http://ctan.org/pkg/siunitx). This packege is placed in `texlive-science` package, so to install it in Ubuntu-like system execute `sudo apt-get install texlive-science`.
 
 — or —
 
